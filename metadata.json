@@ -1,0 +1,8 @@
+{
+  "name": "ForkLorE",
+  "description": "Simple, obsidian-themed Calling, Contacts, and SMS Messaging app selectable as your default Phone and Messaging handler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

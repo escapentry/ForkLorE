@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ForkLorE</string>
+    <string name="nav_keypad">Keypad</string>
+    <string name="nav_recents">Recents</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="search_hint">Search contacts, calls, or messages</string>
+    <string name="clear_search">Clear</string>
+    <string name="set_default_phone">Set Default Phone</string>
+    <string name="set_default_sms">Set Default SMS</string>
+    <string name="default_phone_active">Default Phone Active</string>
+    <string name="default_sms_active">Default SMS Active</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="new_message">New Message</string>
+    <string name="new_contact">New Contact</string>
+    <string name="type_message_hint">Text message</string>
+    <string name="wallpaper_menu_title">Backdrop Theme</string>
+    <string name="wallpaper_menu_subtitle">Customize ForkLorE ambient surface</string>
+    <string name="wallpaper_choose_photo">Choose custom photo</string>
+    <string name="wallpaper_preset_orbit">Obsidian</string>
+    <string name="wallpaper_preset_aurora">Aurora</string>
+    <string name="wallpaper_preset_dusk">Dusk</string>
+    <string name="wallpaper_preset_emerald">Mist</string>
+    <string name="wallpaper_preset_nocturne">Sapphire</string>
+    <string name="wallpaper_preset_custom">My Photo</string>
+</resources>
